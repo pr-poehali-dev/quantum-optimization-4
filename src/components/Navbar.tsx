@@ -36,11 +36,7 @@ export default function Navbar() {
           href="/"
         >
           <div className="flex items-center gap-2">
-            <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center">
-              <svg className="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
-              </svg>
-            </div>
+            <img src="https://cdn.poehali.dev/projects/f56e7ff9-5a43-471b-8c3e-0a294148a746/files/6b46b227-181e-4187-8413-8a370e46204c.jpg" alt="СВ-ТехноГрупп" className="w-8 h-8 rounded-lg object-cover" />
             <span className="text-white font-semibold text-lg">СВ-ТехноГрупп</span>
           </div>
         </a>
@@ -83,11 +79,7 @@ export default function Navbar() {
         }}
       >
         <a className="flex items-center justify-center gap-2" href="/">
-          <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center">
-            <svg className="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
-            </svg>
-          </div>
+          <img src="https://cdn.poehali.dev/projects/f56e7ff9-5a43-471b-8c3e-0a294148a746/files/6b46b227-181e-4187-8413-8a370e46204c.jpg" alt="СВ-ТехноГрупп" className="w-8 h-8 rounded-lg object-cover" />
           <span className="text-white font-semibold">СВ-ТехноГрупп</span>
         </a>
 

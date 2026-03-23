@@ -36,8 +36,7 @@ export default function Navbar() {
           href="/"
         >
           <div className="flex items-center gap-2">
-            <img src="https://cdn.poehali.dev/projects/f56e7ff9-5a43-471b-8c3e-0a294148a746/files/6b46b227-181e-4187-8413-8a370e46204c.jpg" alt="СВ-ТехноГрупп" className="w-8 h-8 rounded-lg object-cover" />
-            <span className="text-white font-semibold text-lg">СВ-ТехноГрупп</span>
+            <img src="https://cdn.poehali.dev/projects/f56e7ff9-5a43-471b-8c3e-0a294148a746/bucket/177e1822-29e7-49a4-9ebf-478f319a1ff0.png" alt="СВ-ТехноГрупп" className="h-10 w-auto object-contain" />
           </div>
         </a>
 
@@ -79,8 +78,7 @@ export default function Navbar() {
         }}
       >
         <a className="flex items-center justify-center gap-2" href="/">
-          <img src="https://cdn.poehali.dev/projects/f56e7ff9-5a43-471b-8c3e-0a294148a746/files/6b46b227-181e-4187-8413-8a370e46204c.jpg" alt="СВ-ТехноГрупп" className="w-8 h-8 rounded-lg object-cover" />
-          <span className="text-white font-semibold">СВ-ТехноГрупп</span>
+          <img src="https://cdn.poehali.dev/projects/f56e7ff9-5a43-471b-8c3e-0a294148a746/bucket/177e1822-29e7-49a4-9ebf-478f319a1ff0.png" alt="СВ-ТехноГрупп" className="h-10 w-auto object-contain" />
         </a>
 
         <button
